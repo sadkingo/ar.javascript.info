@@ -19,7 +19,7 @@
 
 <body>
 
-  <p>Before the script...</p>
+  <p>قبل السكريبت...</p>
 
 *!*
   <script>
@@ -27,7 +27,7 @@
   </script>
 */!*
 
-  <p>...After the script.</p>
+  <p>...بعد السكريبت.</p>
 
 </body>
 
